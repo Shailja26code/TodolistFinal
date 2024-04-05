@@ -1,4 +1,4 @@
-# TodolistFinal
+# TodolistFinal 
 Welcome to ToDo list application. This application allows you to create a new task, assign them a title and track via due date and assigned Project. 
 This is a text based application where inputs are being taken from command line. It stores ToDo list details over a file and allows you to view the existing list when application is re-run.
 
